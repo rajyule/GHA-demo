@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: test phase
-        run: echo"running test"
+        run: echo "running test"
   deploy:
     runs-on: ubuntu-latest
     steps:
